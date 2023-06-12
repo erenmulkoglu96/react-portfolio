@@ -1,0 +1,13 @@
+Dependencies:
+
+1. npm i @emailjs/browser    (to implement the contact form)
+2. npm i @fortawesome/free-brands-svg-icons     (fontawesome versions)
+3. npm i @fortawesome/free-solid-svg-icons      (free packadges for fonts)
+4. npm i @fortawesome/react-fontawesome         (rehab(восстановление) for the fontawesome)
+5. npm i animate.css            (a css library for animating the objects)
+6. npm i gsap-trial     (for more advanced animations (trial=without creating account))
+7. npm i loaders.css    (for loaders in between the pages)
+8. npm i react-leaflet  (to create maps)
+9. npm i react-loaders  (loaders of react)
+10. npm i react-router-dom (to navigate throught the pages)
+11. npm i sass       (for styling)

@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover": "/images/portfolio/img1.webp",
+            "title": "15 Great Websites to Learn Front-end Development",
+            "description": "I have created this amazing list of web resources which will help you become a front-end developer in 2021.",
+            "url": "https://dev.to/snkds/14-great-websites-to-learn-front-end-development-mpm"
+        },
+        {
+            "cover": "/images/portfolio/img2.png",
+            "title": "How to Become a Front-End Developer?",
+            "description": "Front-End Development is indeed the talk of the town and one of the most rewarding career options since its inception. ",
+            "url": "https://www.geeksforgeeks.org/how-to-become-a-front-end-developer/"
+        },
+        {
+            "cover": "/images/portfolio/img3.jpg",
+            "title": "How to become front end Web developer?",
+            "description": "Learning to become an efficient front-end web developer",
+            "url": "https://www.youtube.com/watch?v=Np3k4D1MwBM"
+        },
+        {
+            "cover": "/images/portfolio/img4.jpg",
+            "title": "Learn How to Become a Modern Front End Developer",
+            "description": "Digital4design has team of experts with full of experience about frontend technologies like Angular, React or Ember.",
+            "url": "https://www.digital4design.com/learn-how-to-become-a-modern-front-end-developer/"
+        },
+        {
+            "cover": "/images/portfolio/img5.webp",
+            "title": "Learn Front end Development ",
+            "description": "W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.",
+            "url": "https://www.w3schools.com/"
+        }
+    ]
+}
